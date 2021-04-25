@@ -1,0 +1,13 @@
+.background {
+    background-color: rgb(182, 170, 170);
+    height: 200px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.button {
+    background-color: rgb(250, 248, 248);
+    border-radius: 50%;
+    padding: 30%;
+    font-weight: bold;
+    font-size: 30px
+}
